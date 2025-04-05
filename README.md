@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Shalu 👋
 
-<!--
-**shalu-sihag/shalu-sihag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech CSE student passionate about Python, SQL, and backend development.  
+🛠 Currently learning MySQL, Flask, and working on small real-life projects.  
+🚀 Goal: Apply for GSoC 2025 and contribute to open source.  
 
-Here are some ideas to get you started:
+💡 Tech Stack:  
+- 💻 Python 
+- 🗃️ MySQL  
+- 🌐 HTML, CSS  
+- 🛠️ Tools: VS Code, Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 I’m working on:  
+- 🔧 A Student Record Manager using Python + MySQL  
+- 📚 Learning DSA, Flask & Django  
+
+📫 How to reach me:
+- ✉️ Email: shalusihag29@gmail.com
+
