@@ -2,7 +2,7 @@
 
 🎓 I'm a B.Tech CSE student passionate about Python, SQL, and backend development.  
 🛠 Currently learning MySQL, Flask, and working on small real-life projects.  
-🚀 Goal: Apply for GSoC 2025 and contribute to open source.  
+🚀 Goal:To contribute to open source.  
 
 💡 Tech Stack:  
 - 💻 Python 
