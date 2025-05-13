@@ -8,7 +8,8 @@
 - 💻 Python 
 - 🗃️ MySQL  
 - 🌐 HTML, CSS  
-- 🛠️ Tools: VS Code, Git, GitHub  
+- 🛠️ Tools: VS Code, Git, GitHub
+- ⚙️ Flask 
 
 📌 I’m working on:  
 - 🔧 A Student Record Manager using Python + MySQL  
@@ -16,4 +17,5 @@
 
 📫 How to reach me:
 - ✉️ Email: shalusihag29@gmail.com
+- 🔗 Linkedin : https://www.linkedin.com/in/shalu-sihag-1b0bb0353/
 
