@@ -7,13 +7,12 @@
 💡 Tech Stack:  
 - 💻 Python 
 - 🗃️ MySQL  
-- 🌐 HTML, CSS  
+- 🌐 HTML, CSS, JavaScript, Reactjs
 - 🛠️ Tools: VS Code, Git, GitHub
-- ⚙️ Flask 
+- ⚙️ Flask , FastAPI
 
-📌 I’m working on:  
-- 🔧 A Student Record Manager using Python + MySQL  
-- 📚 Learning DSA, Flask & Django  
+📌 I’m working on:   
+- 📚 Learning DSA, Django , FastAPI
 
 📫 How to reach me:
 - ✉️ Email: shalusihag29@gmail.com
