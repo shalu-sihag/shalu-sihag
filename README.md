@@ -40,7 +40,8 @@ Track applications (Applied / Interview / Selected / Rejected)
 Organize deadlines and status updates
 Simple dashboard for progress monitoring
 Tech: React.js, JavaScript, LocalStorage
-🎯 Goals
+
+**🎯 Goals**
 Become a strong Full Stack Developer (MERN + Python stack)
 Build scalable real-world applications
 Improve DSA problem-solving skills
