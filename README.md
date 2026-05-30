@@ -1,58 +1,49 @@
-# 👋 Hi, I’m Shalu Sihag
+👋 Hi, I’m Shalu Sihag
 
-I’m a passionate **Web Developer** and **AI Tools Enthusiast** currently pursuing B.Tech in Computer Science (CSE).  
-I build responsive web applications, integrate APIs, and use modern development tools to deliver clean and efficient code.
+I’m a passionate Web Developer and Problem Solver currently pursuing B.Tech in Computer Science (CSE).
+I enjoy building real-world web applications, learning new technologies, and strengthening my problem-solving skills through DSA in Python.
 
----
+**🛠️ Tech Stack**
+💻 Frontend
+HTML5 • CSS3 • JavaScript (ES6+)
+React.js (Hooks, Components, State Management)
+Responsive UI Design
+REST API Integration
+🗄️ Backend & Databases
+Python (Basics + Problem Solving)
+SQL • MySQL
+📊 DSA
+Data Structures & Algorithms in Python
+🚀 Major Projects
+**📊 AI Study Planner Dashboard**
 
-## 🛠️ Tech Stack
+A smart productivity dashboard designed to help students organize studies, track tasks, and improve focus using an AI-inspired interface.
 
-### 💻 Frontend
-- HTML5 • CSS3 • JavaScript (ES6)
-- React.js (functional components, hooks, state management)
-- Responsive design & UI development
-- API integration (REST APIs)
+Task & subject tracking system
+Study planning dashboard
+Clean and responsive UI
+Tech: React.js, JavaScript, CSS
+**💱 Currency Converter (API-Based)**
 
-### 🐍 Backend / Databases
-- Python (general scripting and data handling)
-- MySQL • SQL
+A real-time currency converter web app using live exchange rate APIs.
 
-### 🤖 AI & Productivity Tools
-- ChatGPT • Gemini • Perplexity
-- Cursor (AI-assisted coding)
-- Gamma • Lovable.dev (presentation/UI generation)
-- Google Docs & Slides (automation & productivity)
+Live currency conversion
+Multi-currency support
+Error handling and responsive UI
+Tech: HTML, CSS, JavaScript, REST API
+**🚀 InternFlow – Job Application & Interview Tracker**
 
-### ⚡ Other Tools
-- Git & GitHub (version control)
-- VS Code
-- Figma (UI/UX design)
+A productivity web app to manage internship/job applications and track interview progress.
 
----
-
-## 📂 Projects (Pinned)
-
-### 💱 Currency Converter (API-based)
-Responsive web app with live exchange rates using a public API.  
-📌 Tech: HTML, CSS, JavaScript, REST API  
-📌 Features: Real-time conversion, error handling, multiple currencies  
-📌 Live demo / screenshots in repo
-
-### 🌌 Solar System Animation
-Interactive Solar System simulation using DOM manipulation.  
-📌 Tech: HTML, CSS, JavaScript
-
-### ✂️ Rock, Paper, Scissors Game
-Classic game with UI logic and score tracking.  
-📌 Tech: HTML, CSS, JavaScript
-
----
-
-## 🎯 Goals
-- Build advanced frontend applications using **React**  
-- Integrate APIs and databases into full-stack projects  
-- Contribute to open source and improve portfolio  
-- Get internships to gain **real-world experience**
+Track applications (Applied / Interview / Selected / Rejected)
+Organize deadlines and status updates
+Simple dashboard for progress monitoring
+Tech: React.js, JavaScript, LocalStorage
+🎯 Goals
+Become a strong Full Stack Developer (MERN + Python stack)
+Build scalable real-world applications
+Improve DSA problem-solving skills
+Secure a good internship and gain industry experience
 
 ---
 
