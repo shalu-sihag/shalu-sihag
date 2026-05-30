@@ -14,25 +14,26 @@ Python (Basics + Problem Solving)
 SQL • MySQL
 📊 DSA
 Data Structures & Algorithms in Python
-🚀 Major Projects
-**📊 AI Study Planner Dashboard**
 
+**🚀 Major Projects** 
+
+**📊 AI Study Planner Dashboard**
 A smart productivity dashboard designed to help students organize studies, track tasks, and improve focus using an AI-inspired interface.
 
 Task & subject tracking system
 Study planning dashboard
 Clean and responsive UI
 Tech: React.js, JavaScript, CSS
-**💱 Currency Converter (API-Based)**
 
+**💱 Currency Converter (API-Based)**
 A real-time currency converter web app using live exchange rate APIs.
 
 Live currency conversion
 Multi-currency support
 Error handling and responsive UI
 Tech: HTML, CSS, JavaScript, REST API
-**🚀 InternFlow – Job Application & Interview Tracker**
 
+**🚀 InternFlow – Job Application & Interview Tracker**
 A productivity web app to manage internship/job applications and track interview progress.
 
 Track applications (Applied / Interview / Selected / Rejected)
