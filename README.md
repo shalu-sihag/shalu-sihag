@@ -1,47 +1,88 @@
-👋 Hi, I’m Shalu Sihag
+# 👋 Hi, I'm Shalu Sihag
 
-I’m a passionate Web Developer and Problem Solver currently pursuing B.Tech in Computer Science (CSE).
-I enjoy building real-world web applications, learning new technologies, and strengthening my problem-solving skills through DSA in Python.
+🎓 B.Tech CSE Student | 💻 Full Stack Developer (MERN + Python) | 🧠 Problem Solver
 
-**🛠️ Tech Stack**
-💻 Frontend : HTML5 • CSS3 • JavaScript (ES6+) • React.js (Hooks, Components, State Management) • Responsive UI Design • API Integration
-🗄️ Backend & Databases : Python (Basics + Problem Solving) • SQL • MySQL
-📊 DSA : Data Structures & Algorithms in Python
-
-**🚀 Major Projects** 
-
-**📊 AI Study Planner Dashboard**
-A smart productivity dashboard designed to help students organize studies, track tasks, and improve focus using an AI-inspired interface.
-
-•Task & subject tracking system
-•Study planning dashboard
-•Clean and responsive UI
-Tech: React.js, JavaScript, CSS
-
-**💱 Currency Converter (API-Based)**
-A real-time currency converter web app using live exchange rate APIs.
-
-•Live currency conversion
-•Multi-currency support
-•Error handling and responsive UI
-Tech: HTML, CSS, JavaScript, REST API
-
-**🚀 InternFlow – Job Application & Interview Tracker**
-A productivity web app to manage internship/job applications and track interview progress.
-
-•Track applications (Applied / Interview / Selected / Rejected)
-•Organize deadlines and status updates
-•Simple dashboard for progress monitoring
-Tech: React.js, JavaScript, LocalStorage
-
-**🎯 Goals**
-•Become a strong Full Stack Developer (MERN + Python stack)
-•Build scalable real-world applications
-•Improve DSA problem-solving skills
-•Secure a good internship and gain industry experience
+I enjoy building real-world web applications, learning scalable technologies, and improving my problem-solving skills through Data Structures & Algorithms in Python.
 
 ---
 
-## 📫 Connect with me
-LinkedIn: https://www.linkedin.com/in/shalu-sihag  
-GitHub: https://github.com/shalu-sihag
+## 🚀 About Me
+- 🌱 Currently learning: Node.js, React advanced concepts, System Design
+- 💡 Interested in: Full Stack Development, Backend Systems, AI-based tools
+- 🎯 Goal: Become a strong software engineer and land a high-impact internship
+- 🧩 Practicing DSA in Python regularly
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+HTML • CSS • JavaScript (ES6+) • React.js • Responsive UI • API Integration
+
+### ⚙️ Backend & Database
+Node.js (learning) • Python • SQL • MySQL • REST APIs
+
+### 🧠 DSA
+Data Structures & Algorithms in Python  
+(Problem Solving on LeetCode / GFG)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 AI Study Planner Dashboard
+A smart productivity tool to help students manage study plans and tasks efficiently.
+
+- Task & subject tracking system
+- Clean dashboard UI
+- Focus-based study planning
+
+**Tech:** React.js, JavaScript, CSS
+
+---
+
+### 🚀 InternFlow – Job Application Tracker
+A system to track internship/job applications and interview progress.
+
+- Track application status (Applied / Interview / Selected / Rejected)
+- Deadline tracking system
+- Simple dashboard using LocalStorage
+
+**Tech:** React.js, JavaScript
+
+---
+
+### 💱 Currency Converter
+Real-time currency converter using live API integration.
+
+- Live exchange rate conversion
+- Multi-currency support
+- Responsive UI
+
+**Tech:** HTML, CSS, JavaScript, REST API
+
+---
+
+## 🌐 Portfolio & Links
+
+- 🔗 Portfolio: https://shalu-sihag.github.io/personal-portfolio/
+- 💻 GitHub: https://github.com/shalu-sihag
+- 🔗 LinkedIn: https://www.linkedin.com/in/shalu-sihag-1b0bb0353/
+
+---
+
+## 🎯 Current Focus
+- Full Stack Development (MERN + Python stack)
+- Building production-level projects
+- Improving DSA consistency
+- Preparing for internships & placements
+
+---
+
+## 📫 Contact
+- 📧 Email: shalusihag29@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shalu-sihag-1b0bb0353/
+
+---
+
+⭐ Always building, learning, and improving.
