@@ -7,7 +7,7 @@ I enjoy building real-world web applications, learning scalable technologies, an
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: Node.js, React advanced concepts, System Design
+- 🌱 Currently learning: Node.js, React advanced concepts
 - 💡 Interested in: Full Stack Development, Backend Systems, AI-based tools
 - 🎯 Goal: Become a strong software engineer and land a high-impact internship
 - 🧩 Practicing DSA in Python regularly
